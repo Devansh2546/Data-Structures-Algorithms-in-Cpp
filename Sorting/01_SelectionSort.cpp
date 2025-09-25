@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
+
 int main()
 {
     int arr[] = {13, 46, 24, 52, 20, 9};
